@@ -1,12 +1,15 @@
 <h1 align="center">Hola 👋, Soy Manuel</h1>
 <h3 align="center">Soy desarrollador Full-Stack de Argentina</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 Actualmente estoy trabajando en **Portfolio**
 
-- 📫 How to reach me **manst94@gmail.com**
+- 📫 Como contactarme **manst94@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Me podes seguir en:</h3>
 <p align="left">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-seoane-torrealba-123221263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-seoane-torrealba-123221263/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
